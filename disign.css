@@ -1,0 +1,13 @@
+p {
+    background-position: black;
+}
+.pict1 {
+    border: 20px;
+}
+a:hover {
+    color: rgb(127, 255, 136);
+}
+body {
+    color: rgb(144, 108, 108);
+    background-image: url("https://i.playground.ru/p/MkMtVHnRZEmB4Oht4tQJow.jpeg")
+}
